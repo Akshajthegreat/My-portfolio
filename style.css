@@ -1,0 +1,39 @@
+.line {
+    background-color: black;
+    width: 70px;
+    height: 6px;
+    margin: 8px auto;
+
+}
+
+#apps {
+    background-color: brown;
+    text-align: center;
+    height: 800px;
+}
+
+#games {
+    background-color: aquamarine;
+    text-align: center;
+    height: 800px;
+}
+
+#chatbot {
+    background-color: darkturquoise;
+    text-align: center;
+    height: 800px;
+}
+
+img {
+    transition: transform 0.2s;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+#sprite{
+    text-align: center;
+    background-color: beige;
+    height: 800px;
+}
